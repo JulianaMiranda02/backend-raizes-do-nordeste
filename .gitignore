@@ -1,0 +1,18 @@
+
+# Ambiente virtual Python
+.venv/
+venv/
+
+# Arquivos temporários Python
+__pycache__/
+*.py[cod]
+
+# Senhas e configurações privadas
+.env
+.env.*
+
+# Exceção: manter um modelo de configuração
+!.env.example
+
+# Configurações locais do VS Code
+.vscode/
