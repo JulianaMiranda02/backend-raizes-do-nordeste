@@ -37,7 +37,7 @@ produtos = [
         "id": 5,
         "nome": "Misto quente",
         "preco": 10.00,
-        "categoria": "Paes",
+        "categoria": "Pães",
         "link_imagem":"https://raizes-nordeste-imagens.s3.sa-east-1.amazonaws.com/paes/misto-quente.jpg"
     },
         
@@ -45,15 +45,15 @@ produtos = [
         "id": 6,
         "nome": "Pão de queijo",
         "preco": 3.00,
-        "categoria": "Paes",
-        "link_imagem":"https://raizes-nordeste-imagens.s3.sa-east-1.amazonaws.com/paes/pao-de-queijo.jpg"
+        "categoria": "Pães",
+        "link_imagem":"https://raizes-nordeste-imagens.s3.sa-east-1.amazonaws.com/paes/pao-de-queijo.png"
     },
     
     {    
         "id": 7,
         "nome": "Pão francês na chapa",
         "preco": 3.00,
-        "categoria": "Paes",
+        "categoria": "Pães",
         "link_imagem":"https://raizes-nordeste-imagens.s3.sa-east-1.amazonaws.com/paes/pao-frances-na-chapa.jpg"
     },
     
@@ -61,7 +61,7 @@ produtos = [
         "id": 8,
         "nome": "Pão francês com requeijão",
         "preco": 3.50,
-        "categoria": "Paes",
+        "categoria": "Pães",
         "link_imagem":"https://raizes-nordeste-imagens.s3.sa-east-1.amazonaws.com/paes/pao-frances-requeijao.jpg"
     },
 
@@ -69,7 +69,7 @@ produtos = [
         "id": 9,
         "nome": "Café expresso",
         "preco": 5.00,
-        "categoria": "Cafe",
+        "categoria": "Café",
         "link_imagem":"https://raizes-nordeste-imagens.s3.sa-east-1.amazonaws.com/cafe/cafe-expresso.jpg"
     },
 
@@ -77,7 +77,7 @@ produtos = [
         "id": 10,
         "nome": "Café gelado",
         "preco": 5.00,
-        "categoria": "Cafe",
+        "categoria": "Café",
         "link_imagem":"https://raizes-nordeste-imagens.s3.sa-east-1.amazonaws.com/cafe/cafe-gelado.jpg"
     },
 
@@ -85,7 +85,7 @@ produtos = [
         "id": 11,
         "nome": "Café tradicional",
         "preco": 5.00,
-        "categoria": "Cafe",
+        "categoria": "Café",
         "link_imagem":"https://raizes-nordeste-imagens.s3.sa-east-1.amazonaws.com/cafe/cafe-tradicional.jpg"
     },
 
@@ -93,7 +93,7 @@ produtos = [
         "id": 12,
         "nome": "Capuccino",
         "preco": 5.50,
-        "categoria": "Cafe",
+        "categoria": "Café",
         "link_imagem":"https://raizes-nordeste-imagens.s3.sa-east-1.amazonaws.com/cafe/capuccino.jpg"
     },
 
@@ -102,7 +102,7 @@ produtos = [
         "nome": "Bolo de goiabada",
         "preco": 6.00,
         "categoria": "Bolos e Tortas",
-        "link_imagem":"https://raizes-nordeste-imagens.s3.sa-east-1.amazonaws.com/bolos-e-tortas/bolo-de-goiabada.jpg"
+        "link_imagem":"https://raizes-nordeste-imagens.s3.sa-east-1.amazonaws.com/bolos-e-tortas/bolo-de-goiaba.jpg"
     },
 
     {
@@ -147,16 +147,9 @@ produtos = [
     },
 
 
+    
     {
         "id": 19,
-        "nome": "Garrafa de agua com gás",
-        "preco": 5.00,
-        "categoria": "Bebidas",
-        "link_imagem":"https://raizes-nordeste-imagens.s3.sa-east-1.amazonaws.com/bebidas/garrafa-com-agua.jpg"
-    },
-
-    {
-        "id": 20,
         "nome": "Suco de goiaba",
         "preco": 7.00,
         "categoria": "Bebidas",
@@ -164,22 +157,21 @@ produtos = [
     },
     
     {
-        "id": 21,
+        "id": 20,
         "nome": "Suco de laranja",
         "preco": 7.00,
         "categoria": "Bebidas",
         "link_imagem":"https://raizes-nordeste-imagens.s3.sa-east-1.amazonaws.com/bebidas/suco-de-laranja.jpg"
     },
-    
-    
+
     {
-        "id": 22,
-        "nome": "Suco de limão",
-        "preco": 7.00,
-        "categoria": "Bebidas",
-        "link_imagem":"https://raizes-nordeste-imagens.s3.sa-east-1.amazonaws.com/bebidas/suco-de-limao.jpg"
-    },
-            
+        "id": 21,
+        "nome": "Água de Coco",
+            "preco": 5.00,
+            "categoria": "Bebidas",
+            "link_imagem":"https://raizes-nordeste-imagens.s3.sa-east-1.amazonaws.com/bebidas/agua-de-coco.jpg"
+    }
+                  
 
 ]
 
